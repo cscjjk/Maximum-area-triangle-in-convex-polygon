@@ -1,0 +1,28 @@
+experiment-test case 1
+Alg J: total iterations = 99878;    (average) running time = 0.005240
+Alg K: total iterations = 455361;    (average) running time = 0.020680
+Alg C: total iterations = 455178;    (average) running time = 0.022840
+experiment-test case 2
+Alg J: total iterations = 998511;    (average) running time = 0.047200
+Alg K: total iterations = 4659599;    (average) running time = 0.223600
+Alg C: total iterations = 4657908;    (average) running time = 0.244740
+experiment-test case 3
+Alg J: total iterations = 997681;    (average) running time = 0.047700
+Alg K: total iterations = 4501969;    (average) running time = 0.227020
+Alg C: total iterations = 4499593;    (average) running time = 0.264180
+experiment-test case 4
+Alg J: total iterations = 998933;    (average) running time = 0.053900
+Alg K: total iterations = 4658202;    (average) running time = 0.269140
+Alg C: total iterations = 4657109;    (average) running time = 0.278920
+experiment-test case 5
+Alg J: total iterations = 998203;    (average) running time = 0.052940
+Alg K: total iterations = 5001147;    (average) running time = 0.257220
+Alg C: total iterations = 4999500;    (average) running time = 0.251780
+experiment-test case 6
+Alg J: total iterations = 999673;    (average) running time = 0.059780
+Alg K: total iterations = 4580226;    (average) running time = 0.267840
+Alg C: total iterations = 4579936;    (average) running time = 0.274540
+experiment-test case 7
+Alg J: total iterations = 999968;    (average) running time = 0.064060
+Alg K: total iterations = 4581191;    (average) running time = 0.271660
+Alg C: total iterations = 4581150;    (average) running time = 0.278280
